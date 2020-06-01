@@ -17,7 +17,6 @@ import java.util.Scanner;
 public class Task_1 {
 
     public static void task_1() {
-        System.out.println("Задание 1.");
         System.out.println("Рассчитать квадрат числа по схеме Васи и проверить правильность этого метода.");
         int num = square();
         System.out.println("Число: " + num);
